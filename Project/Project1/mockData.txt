@@ -1,0 +1,32 @@
+STT|         ID|                FULLNAME|                                                                      ADDRESS|                          EMAIL|        VNTEL|     BIRTHDAY|   GPA|
+==========================================================================================================================================================================================
+001|   21127034|            Ngo Phu Binh|         97 Hem 254 Ben Van Don Street, 5 Ward , 4 District, Ho Chi Minh City|             npbinh@twitter.com|   0320079565|   12/08/2004|   4.1|
+002|   21127049|                Ho Vo Du|        45 Hem 144 Nguyen Khoai Street, 2 Ward , 4 District, Ho Chi Minh City|      hvdu@student.hcmus.edu.vn|   0332178047|   05/06/2004|   6.6|
+003|   21127113|             Pham Duc Du|                        39 So 3 Street, 4 Ward , 3 District, Ho Chi Minh City|              pddu@youtuber.com|   0365070614|   04/08/2004|   8.0|
+004|   21127129|          Ho Phuong Dung|                     41 Hem 324 Street, 1 Ward , 4 District, Ho Chi Minh City|           hpdung@microsoft.com|   0879833277|   21/02/2004|   7.6|
+005|   21127140|       Huynh Phuong Dung|           48 Nguyen Duy Duong Street, 3 Ward , 10 District, Ho Chi Minh City|             hpdung@twitter.com|   0762234782|   24/04/2004|   4.4|
+006|   21127158|          Pham Tuan Dung|          27 Nguyen Thuong Hien Street, 5 Ward , 3 District, Ho Chi Minh City|           ptdung@microsoft.com|   0875019906|   27/11/2004|   8.3|
+007|   21127176|            Vo Ngoc Dung|           26 Nguyen Duy Duong Street, 3 Ward , 10 District, Ho Chi Minh City|                vndung@tiki.com|   0370619098|   12/03/2004|   8.4|
+008|   21127220|             Bui Dinh Ha|                 22 Ben Van Don Street, 1 Ward , 4 District, Ho Chi Minh City|              bdha@youtuber.com|   0333658478|   31/05/2004|   9.1|
+009|   21127236|           Duong Ngoc Ha|          28 Hem 268 Ly Thai To Street, 1 Ward , 3 District, Ho Chi Minh City|                  dnha@tiki.com|   0326452894|   21/09/2004|   5.5|
+010|   21127250|              Le Ngoc Ha|                       33 So 43 Street, 4 Ward , 4 District, Ho Chi Minh City|              lnha@youtuber.com|   0355838538|   30/03/2004|   5.9|
+011|   21127251|          Nguyen Ngoc Ha|                 54 Ly Thai To Street, 1 Ward , 10 District, Ho Chi Minh City|               nnha@twitter.com|   0374188088|   10/12/2004|   9.8|
+012|   21127265|           Vo Dinh Huyen|   86 Hem 16 Nguyen Thien Thuat Street, 2 Ward , 3 District, Ho Chi Minh City|              vdhuyen@gmail.com|   0913791267|   26/05/2004|   5.2|
+013|   21127274|         Duong Thi Khiem|            1 Nguyen Duy Duong Street, 4 Ward , 10 District, Ho Chi Minh City|              dtkhiem@apple.com|   0765411904|   31/01/2004|   9.7|
+014|   21127281|             Le Vo Khiem|         20 Hem 44 Nguyen Khoai Street, 2 Ward , 4 District, Ho Chi Minh City|              lvkhiem@gmail.com|   0766865026|   24/07/2004|   9.7|
+015|   21127324|     Nguyen Phuong Khiem|                 85 Ly Thai To Street, 1 Ward , 10 District, Ho Chi Minh City|              npkhiem@gmail.com|   0350949856|   22/09/2004|   6.1|
+016|   21127355|         Nguyen Kim Minh|                         10 12C Street, 3 Ward , 4 District, Ho Chi Minh City|    nkminh@student.hcmus.edu.vn|   0357863694|   22/11/2004|   7.2|
+017|   21127366|            Tran Vo Minh|                 20 Ngo Gia Tu Street, 2 Ward , 10 District, Ho Chi Minh City|    tvminh@student.hcmus.edu.vn|   0363556364|   12/09/2004|   5.0|
+018|   21127370|        Truong Phuc Minh|                    34 Hoa Hao Street, 3 Ward , 10 District, Ho Chi Minh City|               tpminh@apple.com|   0882486676|   31/10/2004|   4.9|
+019|   21127417|          Pham Thi Thanh|           62 Nguyen Duy Duong Street, 3 Ward , 10 District, Ho Chi Minh City|          ptthanh@microsoft.com|   0914233327|   13/04/2004|   9.1|
+020|   21127477|           Pham Ngoc Thu|          48 Hem 258 Vo Van Tan Street, 5 Ward , 3 District, Ho Chi Minh City|     pnthu@student.hcmus.edu.vn|   0966370376|   10/09/2004|   4.0|
+021|   21127500|             Ho Van Tieu|                76 Nguyen Khoai Street, 2 Ward , 4 District, Ho Chi Minh City|             hvtieu@twitter.com|   0375624665|   11/05/2004|   9.7|
+022|   21127554|         Phan Thanh Trac|                       46 So 50 Street, 5 Ward , 4 District, Ho Chi Minh City|               pttrac@apple.com|   0873940688|   22/05/2004|   8.4|
+023|   21127600|        Nguyen Van Trach|         83 Hem 44 Nguyen Khoai Street, 2 Ward , 4 District, Ho Chi Minh City|   nvtrach@student.hcmus.edu.vn|   0987409987|   13/03/2004|   8.8|
+024|   21127657|        Truong Kim Trach|                      93 Ban Co Street, 2 Ward , 3 District, Ho Chi Minh City|              tktrach@apple.com|   0988589340|   25/05/2004|   7.9|
+025|   21127666|          Huynh Vo Trich|   6 Hem 595 Nguyen Thien Thuat Street, 2 Ward , 3 District, Ho Chi Minh City|              hvtrich@gmail.com|   0980041277|   22/06/2004|   8.3|
+026|   21127698|             Vo An Trich|                    84 Hoa Hao Street, 3 Ward , 10 District, Ho Chi Minh City|              vatrich@gmail.com|   0368486825|   30/11/2004|   6.8|
+027|   21127733|          Ho Thanh Trinh|        90 Nguyen Thi Minh Khai Street, 2 Ward , 3 District, Ho Chi Minh City|              httrinh@yahoo.com|   0328619452|   18/05/2004|   6.1|
+028|   21127741|        Truong Thi Trinh|                 11 Ben Van Don Street, 2 Ward , 4 District, Ho Chi Minh City|           tttrinh@youtuber.com|   0874856289|   08/03/2004|   5.1|
+029|   21127807|            Tran Dinh Tu|                       55 So 43 Street, 4 Ward , 4 District, Ho Chi Minh City|                 tdtu@yahoo.com|   0855455266|   30/05/2004|   7.5|
+030|   21127921|   Truong Ngoc Phuong Tu|                        68 So 2 Street, 4 Ward , 3 District, Ho Chi Minh City|                tnptu@yahoo.com|   0360290295|   07/12/2004|   7.4|

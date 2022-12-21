@@ -1,0 +1,18 @@
+3 District
+1 Ward - Dien Bien Phu - Nguyen Thien Thuat - Cu Xa D.Sat - Hem 268 Ly Thai To 
+2 Ward - Ban Co - Hem 595 Nguyen Thien Thuat - Hem 16 Nguyen Thien Thuat - Nguyen Thi Minh Khai 
+3 Ward - Hem 141 Ban Co - Hem 664 Nguyen Dinh Chieu - Hem 51 Cao Thang - Hem 443 Dien Bien Phu 
+4 Ward - So 1 - So 2 - So 3 - Nguyen Hien 
+5 Ward - Vo Van Tan - Nguyen Thuong Hien - Hem 255 Nguyen Dinh Chieu - Hem 258 Vo Van Tan 
+4 District
+1 Ward - Ton That Huyet - Ben Van Don - Hem 324 - cau Nguyen Van Cu 
+2 Ward - Hem 144 Nguyen Khoai - Nguyen Khoai - Ben Van Don - Hem 44 Nguyen Khoai 
+3 Ward - Vinh Hoi - 12C - Ton That Huyet - So 48 
+4 Ward - So 17 - So 43 - So 1 - So 39 
+5 Ward - So 46 - So 50 - Hem 254 Ben Van Don - Ben Van Don 
+10 District
+1 Ward - Ly Thai To - Ho Thi Ky - Le Hong Phong - Tran Binh Trong 
+2 Ward - Tran Nhan Ton - Hoa Hao - Vinh Vien - Ngo Gia Tu 
+3 Ward - Nguyen Duy Duong - Nguyen Chi Thanh - Ngo Gia Tu - Hoa Hao 
+4 Ward - Ba Hat - Nhat Tao - Vinh Vien - Nguyen Duy Duong 
+5 Ward - Nguyen Tieu La - Dao Duy Tu - Hem 450 Hoa Hao - Vinh Vien 

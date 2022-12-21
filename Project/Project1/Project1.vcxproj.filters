@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Business">
+      <UniqueIdentifier>{112c80cd-d7a9-402c-a835-fec86939984e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Entity">
+      <UniqueIdentifier>{28910e54-31b9-4b9d-ad4c-3bad3784a60a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Entity">
+      <UniqueIdentifier>{aca4510e-525a-48ca-ba69-7e9fd15781b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Business">
+      <UniqueIdentifier>{67118fc1-68e7-40af-bd45-f6634bc85a28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Data">
+      <UniqueIdentifier>{7b6f83a9-a804-4a4a-b855-ae54323e537b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Helper">
+      <UniqueIdentifier>{21967712-892e-4c8b-a942-231e6c4ccf29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Helper">
+      <UniqueIdentifier>{d09fcf16-807d-4338-aeec-ade288d28bdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI">
+      <UniqueIdentifier>{817f2745-a6c9-4477-a6bb-945c245dffc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\UI">
+      <UniqueIdentifier>{ec312c0c-9747-42ca-9a55-22c4f236aee2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Email.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Fullname.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="ID.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="VNTel.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeID.cpp">
+      <Filter>Resource Files\Business</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeFullname.cpp">
+      <Filter>Resource Files\Business</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeEmail.cpp">
+      <Filter>Resource Files\Business</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeVNTel.cpp">
+      <Filter>Resource Files\Business</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeAddress.cpp">
+      <Filter>Resource Files\Business</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeBirthday.cpp">
+      <Filter>Resource Files\Business</Filter>
+    </ClCompile>
+    <ClCompile Include="Address.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="FakeGPA.cpp">
+      <Filter>Resource Files\Business</Filter>
+    </ClCompile>
+    <ClCompile Include="GPA.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Resource Files\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomGenerator.cpp">
+      <Filter>Resource Files\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentToRowConverter.cpp">
+      <Filter>Resource Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Table.cpp">
+      <Filter>Resource Files\Entity</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Email.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Fullname.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="ID.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="VNTel.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeID.h">
+      <Filter>Header Files\Business</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeFullname.h">
+      <Filter>Header Files\Business</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeEmail.h">
+      <Filter>Header Files\Business</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeVNTel.h">
+      <Filter>Header Files\Business</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeAddress.h">
+      <Filter>Header Files\Business</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeBirthday.h">
+      <Filter>Header Files\Business</Filter>
+    </ClInclude>
+    <ClInclude Include="Address.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="FakeGPA.h">
+      <Filter>Header Files\Business</Filter>
+    </ClInclude>
+    <ClInclude Include="GPA.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="AttributesEnum.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Header Files\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomGenerator.h">
+      <Filter>Header Files\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="IValueConverter.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentToRowConverter.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>Header Files\Entity</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="companyDomain.txt">
+      <Filter>Resource Files\Data</Filter>
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="firstName.txt">
+      <Filter>Resource Files\Data</Filter>
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="lastName.txt">
+      <Filter>Resource Files\Data</Filter>
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="middleName.txt">
+      <Filter>Resource Files\Data</Filter>
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="numberOfNetwork.txt">
+      <Filter>Resource Files\Data</Filter>
+    </CopyFileToFolders>
+    <CopyFileToFolders Include="mockData.txt">
+      <Filter>Source Files</Filter>
+    </CopyFileToFolders>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Address.txt">
+      <Filter>Resource Files\Data</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
